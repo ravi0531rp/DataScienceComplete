@@ -4,4 +4,25 @@
 
 * This Course had its primary focus on theoretical as well as Practical implementation of Machine Learning models from Regressions to Esemble methods.
 
+## Contents
+* <a href="https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/001.%20Numpy%20Codes.ipynb"> Numpy </a>
+* <a href="https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/002.%20Pandas%20Codes.ipynb"> Pandas </a>
+* MatplotLib
+* Seaborn
+* Linear Regression
+* Feature Engineering
+* Cross Validation and Grid Search
+* Logistic Regression
+* KNNs
+* SVM
+* Decision Trees
+* Random Forests
+* Bagging & Boosting
+* Cohort Analysis
+* K-Means Clustering
+* Heirarchical Clustering
+* DBSCAN
+* PCA
+* Deployment
+
 <a href="https://udemy.com/course-dashboard-redirect/?course_id=2769460"> 2021 Python for Machine Learning & Data Science Masterclass </a>
