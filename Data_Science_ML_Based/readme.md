@@ -5,7 +5,7 @@
 * This Course had its primary focus on theoretical as well as Practical implementation of Machine Learning models from Regressions to Esemble methods.
 
 ## Contents
-* [Numpy]("https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/001.%20Numpy%20Codes.ipynb")
+* [Numpy](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/001.%20Numpy%20Codes.ipynb)
 * [Pandas](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/002.%20Pandas%20Codes.ipynb)
 * [MatplotLib](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/003.%20Matplotlib%20Codes.ipynb)
 * [Seaborn](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/004.%20Seaborn%20Codes.ipynb)
