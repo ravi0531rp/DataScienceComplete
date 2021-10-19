@@ -10,7 +10,7 @@
 * [MatplotLib](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/003.%20Matplotlib%20Codes.ipynb)
 * [Seaborn](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/004.%20Seaborn%20Codes.ipynb)
 * [Linear & Polynomial Regression](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/005.%20Linear%20Regression.ipynb)
-* Feature Engineering
+* [Feature Engineering](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/006.%20Feature%20Engineering.ipynb)
 * Cross Validation and Grid Search
 * Logistic Regression
 * KNNs
