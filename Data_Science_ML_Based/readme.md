@@ -11,9 +11,9 @@
 * [Seaborn](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/004.%20Seaborn%20Codes.ipynb)
 * [Linear & Polynomial Regression](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/005.%20Linear%20Regression.ipynb)
 * [Feature Engineering](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/006.%20Feature%20Engineering.ipynb)
-* Cross Validation and Grid Search
-* Logistic Regression
-* KNNs
+* [Cross Validation and Grid Search](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/007.%20Cross%20Validation%20and%20Grid%20Search.ipynb)
+* [Logistic Regression](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/008.%20Logistic%20Regression.ipynb)
+* [KNNs](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/009.%20KNNs.ipynb)
 * SVM
 * Decision Trees
 * Random Forests
