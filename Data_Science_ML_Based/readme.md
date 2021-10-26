@@ -14,8 +14,8 @@
 * [Cross Validation and Grid Search](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/007.%20Cross%20Validation%20and%20Grid%20Search.ipynb)
 * [Logistic Regression](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/008.%20Logistic%20Regression.ipynb)
 * [KNNs](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/009.%20KNNs.ipynb)
-* SVM
-* Decision Trees
+* [SVM](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/010.%20SVMs.ipynb)
+* [Decision Trees](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/011.%20Decision%20Trees.ipynb)
 * Random Forests
 * Bagging & Boosting
 * Cohort Analysis
