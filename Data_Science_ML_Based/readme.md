@@ -16,7 +16,7 @@
 * [KNNs](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/009.%20KNNs.ipynb)
 * [SVM](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/010.%20SVMs.ipynb)
 * [Decision Trees](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/011.%20Decision%20Trees.ipynb)
-* Random Forests
+* [Random Forests](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/012.%20Random%20Forests.ipynb)
 * Bagging & Boosting
 * Cohort Analysis
 * K-Means Clustering
