@@ -20,10 +20,10 @@
 * [Bagging & Boosting](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/013.%20Bagging%20and%20Boosting.ipynb)
 * [Cohort Analysis](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/014.%20Cohort%20Analysis%20Capstone.ipynb)
 * [Naive Bayes and NLP](https://github.com/ravi0531rp/DataScienceComplete/blob/master/Data_Science_ML_Based/015.%20Naive%20Bayes%20and%20NLP.ipynb)
-* [K-Means Clustering]
-* Heirarchical Clustering
-* DBSCAN
-* PCA
-* Deployment
+* [K-Means Clustering](https://github.com/ravi0531rp/DataScienceComplete/blob/master/DataSciencePython/016.%20K-Means%20Clustering.ipynb)
+* [Heirarchical Clustering](https://github.com/ravi0531rp/DataScienceComplete/blob/master/DataSciencePython/017.%20Hierarchical%20Clustering.ipynb)
+* [DBSCAN](https://github.com/ravi0531rp/DataScienceComplete/blob/master/DataSciencePython/018.%20DBSCAN%20.ipynb)
+* [PCA](https://github.com/ravi0531rp/DataScienceComplete/blob/master/DataSciencePython/019.%20PCA.ipynb)
+* [Tensorflow Sample Model Building](https://github.com/ravi0531rp/DataScienceComplete/blob/master/DataSciencePython/Tensorflow%20Test.ipynb)
 
 <a href="https://udemy.com/course-dashboard-redirect/?course_id=2769460"> 2021 Python for Machine Learning & Data Science Masterclass </a>
